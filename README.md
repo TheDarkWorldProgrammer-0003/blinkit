@@ -56,11 +56,9 @@ Before you begin, make sure you have the following installed on your machine:
 ## Screenshots
 
 Here you can include screenshots of the app's UI.
+Screenshot:1
+![Screenshot_20250208_231024](https://github.com/user-attachments/assets/b5ae6810-5103-4a4d-a7df-4dfea03be482)
 
-```
-![Screenshot_20250208_231138](https://github.com/user-attachments/assets/7f0a05a4-2f21-41bf-91f5-0e46ffa5f2fa)
-
-```
 
 ## Contributing
 
