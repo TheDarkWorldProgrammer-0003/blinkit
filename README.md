@@ -58,16 +58,8 @@ Before you begin, make sure you have the following installed on your machine:
 Here you can include screenshots of the app's UI.
 
 ```
-![Screenshot 1](![Screenshot_20250208_231024](https://github.com/user-attachments/assets/cc558522-43e1-43be-81b1-ebfd3e9a6c24)
-)
-![Screenshot 2](![Screenshot_20250208_231051](https://github.com/user-attachments/assets/4d1acf4d-7781-4b75-98f8-e1067b1bab65)
-)
-![Screenshot 2](![Screenshot_20250208_231104](https://github.com/user-attachments/assets/24c88acf-4b7e-45e3-86f9-e877e9d62bb0)
-)
-![Screenshot 2](![Uploading Screenshot_20250208_231119.png…]()
-)
-![Screenshot 2](![Uploading Screenshot_20250208_231138.png…]()
-)
+![Screenshot_20250208_231138](https://github.com/user-attachments/assets/7f0a05a4-2f21-41bf-91f5-0e46ffa5f2fa)
+
 ```
 
 ## Contributing
