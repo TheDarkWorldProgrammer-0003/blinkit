@@ -30,7 +30,7 @@ Before you begin, make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/blink-it-app.git
+   git clone https://github.com/TheDarkWorldProgrammer-0003/blink-it-app.git
    ```
 
 2. Navigate to the project folder:
@@ -57,20 +57,36 @@ Before you begin, make sure you have the following installed on your machine:
 
 Here you can include screenshots of the app's UI.
 Screenshot:1
+
 ![Screenshot_20250208_231024](https://github.com/user-attachments/assets/b5ae6810-5103-4a4d-a7df-4dfea03be482)
+
+Screenshot:2
+
+![Screenshot_20250208_231051](https://github.com/user-attachments/assets/999de4a3-de8e-42f8-9a66-a760f0f66446)
+
+
+Screenshot:3
+
+![Screenshot_20250208_231104](https://github.com/user-attachments/assets/0e74be35-a2c8-455e-973c-0d0a5b836895)
+
+
+Screenshot:4
+
+![Screenshot_20250208_231119](https://github.com/user-attachments/assets/53906d6e-6f24-4950-bf84-d1cd8c779624)
+
+
+Screenshot:5
+
+![Screenshot_20250208_231138](https://github.com/user-attachments/assets/b5b09606-7f54-4a0b-97e9-100c52b09b1a)
 
 
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and create a pull request. Contributions are always welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or issues, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or issues, feel free to contact me at (shreyvashisth0004@gmail.com).
 
 ## Acknowledgments
 
